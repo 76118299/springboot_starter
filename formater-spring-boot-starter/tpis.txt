@@ -1,0 +1,8 @@
+就一句话 springbootStarter
+就是将   加了@Configuration得配置类
+配置到spring的spi 规范中
+resources/META-INF/spring.factories
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.formater.configation.FormaterAutoEnable
+
+配置类中的 @Bean 的bean 就会被springboot 自动装配
