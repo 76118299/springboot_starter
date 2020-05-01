@@ -1,0 +1,8 @@
+com\formater\FormaterProcessor.class
+com\formater\FormaterTemplate.class
+com\formater\configation\FormaterConfigation.class
+com\formater\impl\JSONFormaterProcessor.class
+com\formater\configation\FormaterAutoEnable.class
+com\formater\configation\FormaterProperties.class
+com\formater\impl\StringFormaterProcessro.class
+META-INF\spring-configuration-metadata.json
